@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there! I'm Ali Dehghani 👋
 
-<!--
-**AliDehghaniProg/AliDehghaniProg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Software & Web Developer from Iran
+Passionate developer exploring the world of code and innovation.
 
-Here are some ideas to get you started:
+### 🛠️ What I Do
+I craft digital experiences that blend innovative design with robust functionality. My passion lies in building responsive, intuitive web and mobile applications that solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌟 Expertise
+- Responsive web design
+- Mobile app creation
+
+# 🛠️ Technologies & Skills
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Html](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=html&logoColor=white)
+![Css](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AliDehghaniProg&show_icons=true&theme=radical)
+
+## 🌐 Connect with Me
+[![Telegram](https://img.shields.io/badge/Telegram-@Parsa__Shaabani-blue?style=flat-square&logo=telegram)](https://t.me/Alis1535)
+[![Email](https://img.shields.io/badge/Email-parsashaabani3@gmail.com-red?style=flat-square&logo=gmail)](mailto:dehghania505@gmail.com)
