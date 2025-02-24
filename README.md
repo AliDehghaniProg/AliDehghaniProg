@@ -21,5 +21,5 @@ I craft digital experiences that blend innovative design with robust functionali
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AliDehghaniProg&show_icons=true&theme=radical)
 
 ## 🌐 Connect with Me
-[![Telegram](https://img.shields.io/badge/Telegram-@Parsa__Shaabani-blue?style=flat-square&logo=telegram)](https://t.me/Alis1535)
-[![Email](https://img.shields.io/badge/Email-parsashaabani3@gmail.com-red?style=flat-square&logo=gmail)](mailto:dehghania505@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-@Ali_Dehghani-blue?style=flat-square&logo=telegram)](https://t.me/Alis1535)
+[![Email](https://img.shields.io/badge/Email-dehghania505@gmail.com-red?style=flat-square&logo=gmail)](mailto:dehghania505@gmail.com)
